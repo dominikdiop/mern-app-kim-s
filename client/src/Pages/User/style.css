@@ -1,0 +1,29 @@
+.mycard {
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}
+
+.mycard2 {
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}
+
+.mycard3 {
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}
+
+.add-me {
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}
+
+.edit-card {
+  justify-content: center;
+  display: flex;
+  margin-top: 5%;
+}

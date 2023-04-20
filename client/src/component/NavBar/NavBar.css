@@ -1,0 +1,8 @@
+.mynav {
+  height: 70px;
+  background-color: transparent;
+  position: sticky;
+  top: 0;
+  font-size: 1.2rem;
+  justify-content: space-between;
+}

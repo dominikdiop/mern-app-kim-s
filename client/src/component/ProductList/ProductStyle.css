@@ -1,0 +1,6 @@
+.food-list {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 5% 5%;
+  flex-wrap: wrap;
+}
